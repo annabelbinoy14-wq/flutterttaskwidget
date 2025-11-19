@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:registrationapp/Signup.dart';
+import 'package:registrationapp/forgetpassword.dart';
+import 'package:registrationapp/login.dart';
 import 'package:registrationapp/welcome.dart';
 
 void main() {
